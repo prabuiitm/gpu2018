@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled 
+0607e7a73bb8df0ec1ba7553077dc93e843fc5bf refs/heads/master
+804d394f51d1110155fafce6bded2dfdc105b1d2 refs/heads/nipunbatra-patch-1
+385cd4d881c077766c07f9b5ea80d8e98a0a8b5e refs/heads/nipunbatra-patch-1-1
+4131ab83877a9eb488e0984de70cc6d1dbd1bdb9 refs/heads/nipunbatra-patch-2
+f938cf72ad8eecef8e71054d98a7d10887bc6af2 refs/heads/resample-overwrite
+bf9adacdc721b13c5321fd8ea00ab88d505413d8 refs/heads/test_travis
+0f30a0457d96cd6ae962aac01c9b36e17ceec2e0 refs/tags/v0.1.0
+^f14f0bc174ccba3f96e3719e7d16cce8c541b5e0
+640b7cefcdb4218fecb9dc7fcbd5e6c719a4a410 refs/tags/v0.1.1
+^92ff8e801eb01fb7099e444d4569328c4ae59537
+548b6e41abb0e86e1a6d81fc874c62a59bb08b17 refs/tags/v0.2
+^4696b27dd4b6b1b7eb431b9cafa05b410476b6fa
+c7bcd6c31442ad3415e88737cfdc90c49947d5da refs/tags/v0.3.alpha
